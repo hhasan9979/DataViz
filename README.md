@@ -4,7 +4,7 @@
 
 ## Website Link
 
-You can access our website here : [Visualization Final Project](https://hhasan9979.github.io/) (currently inactive bc repo is private)
+You can access our website here : [Visualization Final Project](https://hhasan9979.github.io/index.html?) (currently inactive bc repo is private)
 
 ## Run the Files
 Select a directory and paste the following commands: 
